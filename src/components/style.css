@@ -1,0 +1,21 @@
+.mens-box{
+  background-color: orange;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    word-spacing: 20px;
+}
+.girls-box{
+    background-color: pink;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    word-spacing: 20px;
+}
+.couples{
+    background-color: brown;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    word-spacing: 20px;
+}
