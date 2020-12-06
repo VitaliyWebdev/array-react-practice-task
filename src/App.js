@@ -37,7 +37,7 @@ class App extends Component {
         this.setState({together:this.mass})
     }
 
-
+//aaaaaaaaaaaa
     render() {
 
 
